@@ -19,7 +19,7 @@ In this work, we introduce a framework that leverages **hyperbolic geometry** to
 Experiments demonstrate that MNM outperforms baseline methods, providing a robust and interpretable paradigm for neuroimaging meta-analysis.
 
 ## Acknowledgements
-This repository is built upon the code and dataset provided by [NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature]([link to their repo or paper](https://github.com/ghayem/NeuroConText)).  
+This repository is built upon the code and dataset provided by [**NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature**](https://github.com/ghayem/NeuroConText).  
 We sincerely thank the authors for making their code and data publicly available, which greatly facilitated our work.
 
 ## Citation
