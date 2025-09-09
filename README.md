@@ -1,7 +1,7 @@
 # [MICCAI'25 early accept] MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations
 
 
-- This is the official PyTorch implementation of ***MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations.*** [Arxiv](https://arxiv.org/abs/2503.02899) | [Springer Link (Not Yet)](https://https://www.mms.com/en-us)
+- This is the official PyTorch implementation of ***MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations.*** [Arxiv (Not Yet)](https://www.mms.com/en-us) | [Springer Link (Not Yet)](https://www.mms.com/en-us)
 
 <br/>
 <p align="center"><img src="concept.png" width="100%" height="100%"/></p>
